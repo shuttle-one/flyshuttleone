@@ -8,6 +8,9 @@ We leverage the efficiencies of the blockchain and smart contracts to deliver di
 
 Updated By: <a href="mailto:zhuang@shuttle.one">HongZhuang Lim</a>
 
+# Navigation
+<a href="https://github.com/shuttle-one/overview/#officialshuttleonecommunications">Communications</a>
+
 # Official ShuttleOne Communications
 
 <a href="https://www.shuttle.one">Website</a>
