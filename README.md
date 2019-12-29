@@ -6,6 +6,9 @@ ShuttleOne is an integrated fintech blockchain platform that delivers the experi
 
 We leverage the efficiencies of the blockchain and smart contracts to deliver digital financial services that achieves higher efficiency, lower cost for a growing ASEAN.
 
+# Navigation
+
+<li><a href="#official shuttleone communications">Communications</a></li>
 
 # Official ShuttleOne Communications
 
