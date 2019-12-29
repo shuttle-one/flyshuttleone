@@ -23,8 +23,8 @@ Transform Banking Access to a growing ASEAN
 <li><a href="#Assets&Doctrine">Assets & Doctrine</a></li>
 <li><a href="#Knowledge">Knowledge</a></li>
 <li><a href="#communications">Communications</a></li>
-<li><a href="#OfficialAnnouncements">Official Announcements</a></li>
-<li><a href="#media&presscoverage">Media & Press Coverage</a></li>
+<li><a href="#Announcements">Announcements</a></li>
+<li><a href="#Media&PressCoverage">Media & Press Coverage</a></li>
 
 # Assets & Doctrine
 
@@ -75,7 +75,7 @@ Official ShuttleOne Communications channels
 
 <a href="https://twitter.com/shuttle_one">Twitter</a>
 
-# Official Announcements
+# Announcements
 
 April 2019
 
