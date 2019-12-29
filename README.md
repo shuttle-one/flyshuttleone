@@ -24,7 +24,7 @@ Transform Banking Access to a growing ASEAN
 <li><a href="#Knowledge">Knowledge</a></li>
 <li><a href="#communications">Communications</a></li>
 <li><a href="#Announcements">Announcements</a></li>
-<li><a href="#Media&PressCoverage">Media & Press Coverage</a></li>
+<li><a href="#Media_&_PressCoverage">Media & Press Coverage</a></li>
 
 # Assets & Doctrine
 
