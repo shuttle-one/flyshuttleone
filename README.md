@@ -1,5 +1,10 @@
-# overview
+# Welcome
+
 Welcome to the Official <a href="https://www.shuttle.one"> ShuttleOne </a> GitHub
+
+ShuttleOne is an integrated fintech blockchain platform that delivers the experience of remittance, loans and provides for a virtual savings account to our ecosystem of partners and users in Southeast Asia. 
+
+We leverage the efficiencies of the blockchain and smart contracts to deliver digital financial services that achieves higher efficiency, lower cost for a growing ASEAN.
 
 Updated By: <a href="mailto:zhuang@shuttle.one">HongZhuang Lim</a>
 
