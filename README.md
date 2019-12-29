@@ -42,6 +42,10 @@ Literature and Asset documentation of ShuttleOne
 
 <a href="https://docsend.com/view/r6gqxyj">Whitepaper</a><i> //Some Research</i>
 
+<a href="https://play.google.com/store/apps/details?id=com.seitee.xse_wallet">Legion Android[beta]</a>
+
+<a href="https://testflight.apple.com/join/1fTl9yiP">Legion iOS[beta]</a>
+
 # Knowledge
 
 <a href="https://medium.com/@zhuang_66760/what-a-complex-and-secret-world-we-live-in-5f83ab7e000c">What A Complex and Secret World We Live In</a><i>  //published 16th Feb 2019</i>
