@@ -10,8 +10,6 @@ Updated By: <a href="mailto:zhuang@shuttle.one">HongZhuang Lim</a>
 
 # Official ShuttleOne Communications
 
-Official ShuttleOne Communications
-
 <a href="https://www.shuttle.one">Website</a>
 
 <a href="https://t.me/shuttleone">Community Chat</a>
