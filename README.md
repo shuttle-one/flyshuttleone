@@ -30,10 +30,6 @@ Transform Banking Access to a growing ASEAN
 
 Literature and Asset documentation of ShuttleOne
 
-<a href="https://testflight.apple.com/join/1fTl9yiP">Legion iOS [beta]</a>
-
-<a href="https://play.google.com/store/apps/details?id=com.seitee.xse_wallet">Legion Android [beta]</a>
-
 <a href="https://docsend.com/view/25qyu92">ShuttleOne Summary</a><i>  //One Pager</i>
   
 <a href="https://docsend.com/view/9hmscfi">ShuttleOne 2020</a><i>  //Presentation Deck, Updated December 2019</i>
