@@ -1,5 +1,7 @@
 # overview
 Welcome to the Official <a href="https://www.shuttle.one"> ShuttleOne </a> GitHub
+@settings {
+  font-size: 100;
+}
+One Stop Information
 
-<font size="6">One Stop Information</font>
-<p style="font-size:11px">This is another paragraph.</p>
