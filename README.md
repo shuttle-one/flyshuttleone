@@ -23,8 +23,8 @@ Transform Banking Access to a growing ASEAN
 <li><a href="#Assets&Doctrine">Assets & Doctrine</a></li>
 <li><a href="#Knowledge">Knowledge</a></li>
 <li><a href="#communications">Communications</a></li>
-<li><a href="#OfficialAnnouncements">Official Announcements</a></li>
-<li><a href="#media&presscoverage">Media & Press Coverage</a></li>
+<li><a href="#Announcements">Announcements</a></li>
+<li><a href="#Media">Media & Press Coverage</a></li>
 
 # Assets & Doctrine
 
@@ -75,7 +75,7 @@ Official ShuttleOne Communications channels
 
 <a href="https://twitter.com/shuttle_one">Twitter</a>
 
-# Official Announcements
+# Announcements
 
 April 2019
 
@@ -94,7 +94,7 @@ December 2019
 <a href="https://medium.com/@zhuang_66760/the-shuttle-pilot-3-impacts-the-blockchain-brings-to-the-remittance-industry-367535a38d5e?source=friends_link&sk=9717d4f6e589dd04a0c95c27bb15b306">The Shuttle Pilot: 3 Impacts the Blockchain Brings to the Remittance Industry</a>
 
 
-# Media & Press Coverage
+# Media 
 
 2019
 
