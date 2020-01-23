@@ -32,7 +32,7 @@ Literature and Asset documentation of ShuttleOne
 
 <a href="https://docsend.com/view/25qyu92">ShuttleOne Summary</a><i>  //One Pager</i>
   
-<a href="https://docsend.com/view/9hmscfi">ShuttleOne 2020</a><i>  //Presentation Deck, Updated December 2019</i>
+<a href="https://docsend.com/view/7sqasqq">ShuttleOne 2020</a><i>  //Presentation Deck, Updated January 2020</i>
 
 <a href="https://docsend.com/view/s88p4yy">The Shuttle Pilot Program</a> <i>  //Flagship Tests Program Conducted with Partners</i>
 
