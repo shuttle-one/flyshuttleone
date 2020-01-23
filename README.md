@@ -106,3 +106,7 @@ December 2019
 
 <a href="https://www.tribunnews.com/bisnis/2019/03/02/grand-launching-tokoin-karya-anak-bangsa-untuk-akselerasi-umkm">TOKOIN, Revolusi Masif Pengembangan Industri UMKM Berbasis Blockchain</a>
 
+2020
+
+<a href="https://www.techtradeasia.com/2020/01/the-way-forward-for-blockchain-in-2020.html"> The Way Forward for Blockchain in 2020</a>
+
