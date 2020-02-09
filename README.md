@@ -110,4 +110,4 @@ December 2019
 
 <a href="https://www.techtradeasia.com/2020/01/the-way-forward-for-blockchain-in-2020.html"> The Way Forward for Blockchain in 2020</a>
 
-<a href="https://https://www.youtube.com/watch?v=CoBwZ8WL2xM"> CEO HongZhuang Lim Live on MoneyFM</a>
+<a href="https://www.youtube.com/watch?v=CoBwZ8WL2xM"> CEO HongZhuang Lim Live on MoneyFM</a>
