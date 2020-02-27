@@ -111,3 +111,5 @@ December 2019
 <a href="https://www.techtradeasia.com/2020/01/the-way-forward-for-blockchain-in-2020.html"> The Way Forward for Blockchain in 2020</a>
 
 <a href="https://www.youtube.com/watch?v=CoBwZ8WL2xM"> CEO HongZhuang Lim Live on MoneyFM</a>
+
+<a href="https://www.peoplemattersglobal.com/article/entrepreneurship-start-ups/helping-the-under-banked-move-their-money-shuttle-one-ceo-lim-hong-zhuang-24823"> Helping the under-banked move their money: Shuttle One CEO Lim Hong Zhuang</a>
