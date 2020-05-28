@@ -115,3 +115,5 @@ December 2019
 <a href="https://www.youtube.com/watch?v=CoBwZ8WL2xM"> CEO HongZhuang Lim Live on MoneyFM</a>
 
 <a href="https://www.peoplemattersglobal.com/article/entrepreneurship-start-ups/helping-the-under-banked-move-their-money-shuttle-one-ceo-lim-hong-zhuang-24823"> Helping the under-banked move their money: Shuttle One CEO Lim Hong Zhuang</a>
+
+<a href="https://www.dealstreetasia.com/stories/sirius-ventures-shuttleone-189401/"> Sirius Ventures leads seed funding in SG fintech firm ShuttleOne</a>
