@@ -52,7 +52,7 @@ Literature and Asset documentation of ShuttleOne
 
 <a href="https://medium.com/@zhuang_66760/building-shuttleone-series-1-remittance-661f9dfbe47b">Building ShuttleOne Series 1: Remittance</a><i>  //published 11th Dec 2019</i>
 
-<a href="https://medium.com/@zhuang_66760/building-shuttleone-series-2-standing-firm-in-mission-critical-financial-services-c252b5f74630">Building ShuttleOne Series 2: Standing Firm in Mission Critical Financial Services</a><i>  //published 15th April 202020</i>
+<a href="https://medium.com/@zhuang_66760/building-shuttleone-series-2-standing-firm-in-mission-critical-financial-services-c252b5f74630">Building ShuttleOne Series 2: Standing Firm in Mission Critical Financial Services</a><i>  //published 15th April 2020</i>
 
 <b>Translations</b>
 
