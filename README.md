@@ -42,6 +42,10 @@ Literature and Asset documentation of ShuttleOne
 
 <a href="https://github.com/shuttle-one/flyshuttleone/blob/master/ShuttleOne%20Litepaper%20August%202020.pdf">Litepaper</a> //Litepaper August 2020
 
+<a href="https://github.com/shuttle-one/flyshuttleone/blob/master/SZO%20Audit%20Report%20April%202020.pdf">SZO Audit Report</a> //Audit Report 
+
+<a href="https://github.com/shuttle-one/flyshuttleone/blob/master/ShuttleOne%20AML%20Policy.pdf">AML Policy</a> // Regulatory
+
 # Knowledge
 
 <a href="https://medium.com/@zhuang_66760/what-a-complex-and-secret-world-we-live-in-5f83ab7e000c">What A Complex and Secret World We Live In</a><i>  //published 16th Feb 2019</i>
