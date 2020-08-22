@@ -36,11 +36,11 @@ Literature and Asset documentation of ShuttleOne
 
 <a href="https://docsend.com/view/s88p4yy">The Shuttle Pilot Program</a> <i>  //Flagship Tests Program Conducted with Partners</i>
 
-<a href="https://docsend.com/view/r6gqxyj">Whitepaper</a><i> //Some Research</i>
-
 <a href="https://play.google.com/store/apps/details?id=com.seitee.xse_wallet">Legion Android[beta]</a>
 
 <a href="https://testflight.apple.com/join/1fTl9yiP">Legion iOS[beta]</a>
+
+<a href="https://github.com/shuttle-one/flyshuttleone/blob/master/ShuttleOne%20Litepaper%20August%202020.pdf">Litepaper</a> //Litepaper August 2020
 
 # Knowledge
 
