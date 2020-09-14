@@ -2,9 +2,10 @@
 
 Welcome to the Official <a href="https://www.shuttle.one"> ShuttleOne </a> GitHub
 
-ShuttleOne is an  integrated fintech blockchain platform that builds digital banking infrastructure for both consumers and businesses alike. Based in South East Asia and anchored in Singapore, ShuttleOne is a mission driven company that seeks to uplift lives in ASEAN.
+ShuttleOne is a digital currency infrastructure blockchain company that deliversseamless financial services for our partners to their users in an age of programmable money.
 
-We leverage the efficiencies of the blockchain and smart contracts to deliver digital financial services that achieves higher efficiency, lower cost for a growing ASEAN.
+A Monetary Authority of Singapore, Financial Sector Development Fund Recipient
+
 
 # Purpose Driven
 
